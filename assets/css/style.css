@@ -556,7 +556,7 @@ header .navbar ul li a:hover {
 }
 
 .skills h2 {
-  color: #ffffff; /* Changed to white */
+  color: #1a1919; /* Changed to white */
 }
 
 .skills .heading span {
@@ -592,7 +592,7 @@ header .navbar ul li a:hover {
 
 .skills-per{
   height: 14px; 
-  background: #019119;
+  background: #02113b;
   border-style:groove;
   border-radius: 3px;
   position: relative;
@@ -603,7 +603,7 @@ header .navbar ul li a:hover {
   content: attr(percent);
   position: absolute;
   padding: 4px 6px;
-  background: rgb(241, 241, 241);
+  background: rgb(34, 34, 34);
   border-radius: 4px;
   font-size: 10px;
   top: -35px;
@@ -616,7 +616,7 @@ header .navbar ul li a:hover {
   position: absolute;
   width: 10px;
   height: 10px;
-  background: #f5f2f2;
+  background: rgb(34, 34, 34);
   top:-20px;
   right:0;
   transform: translateX(50%) rotate(45deg);
@@ -655,7 +655,7 @@ header .navbar ul li a:hover {
 
 .ability-per{
   height: 14px; 
-  background: #019119;
+  background: #02113b;
   border-style:groove;
   border-radius: 3px;
   position: relative;
@@ -666,7 +666,7 @@ header .navbar ul li a:hover {
   content: attr(percent);
   position: absolute;
   padding: 4px 6px;
-  background: rgb(241, 241, 241);
+  background: rgb(34, 34, 34);
   border-radius: 4px;
   font-size: 10px;
   top: -35px;
@@ -679,7 +679,7 @@ header .navbar ul li a:hover {
   position: absolute;
   width: 10px;
   height: 10px;
-  background: #f5f2f2;
+  background: rgb(34, 34, 34);
   top:-20px;
   right:0;
   transform: translateX(50%) rotate(45deg);
