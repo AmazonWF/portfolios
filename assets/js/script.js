@@ -61,7 +61,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development","", "android development"],
+    strings: [ "Android Development","IT Support"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -88,7 +88,7 @@ var typed = new Typed(".logo", {
 })
 var typed = new Typed(".Kilo", {
     loop:false,
-    strings: [ "I am a Full-Stack developer based Bohol Phil"," I am deeply passionate about my work and have a track record of helping companies thrive by delivering outstanding customer service. When I joined my previous company as a customer service representative, I focused on giving clients the best support possible, bringing both my experience and positive attitude to the role. As I became more familiar with the companys operations, I began encouraging and motivating my team to provide excellent service as well. In addition to my customer service experience, I’ve also worked on various personal projects, including mobile apps built with Flutter and a few game development projects."],
+    strings: [ " I am deeply passionate about my work and have a track record of helping companies thrive by delivering outstanding customer service. When I joined my previous company as a customer service representative, I focused on giving clients the best support possible, bringing both my experience and positive attitude to the role. As I became more familiar with the companys operations, I began encouraging and motivating my team to provide excellent service as well. In addition to my customer service experience, I’ve also worked on various personal projects, including mobile apps built with Flutter and a few game development projects."],
     typeSpeed: 50,
   
 
